@@ -4,4 +4,4 @@ First exercise.
 
 ## References
 
-http://www.goole.com
+http://www.google.com
