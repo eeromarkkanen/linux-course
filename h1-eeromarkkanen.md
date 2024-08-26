@@ -55,7 +55,9 @@ Palomuurin asennuksen ja käyttöönoton jälkeen tein vielä VirtualBox Guest A
 ## Lähteet
 
 Karvinen, Tero: Oppitunti 21.08.2024
+
 Karvinen, Tero: Raportin Kirjoittaminen, https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ Luettu 26.08.2024
+
 Karvinen, Tero: Install Debian on VirtualBox, https://terokarvinen.com/2021/install-debian-on-virtualbox/ Luettu 26.08.2024
 
 
