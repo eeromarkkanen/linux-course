@@ -86,7 +86,7 @@ Tässä kohdassa tehtävänä oli asentaa webbipalvelin ja korvata testisivu oma
 
 Kokeilin tämän jälkeen avata omalla puhelimellani osoitteen 178.62.202.242 ja tuloksena oli Apachen testisivu.
 
-![viikko4 20](https://github.com/user-attachments/assets/b592ac03-147b-45ed-b3ed-c7c3a96bdba2)
+<img width="500" alt="viikko4 20" src="https://github.com/user-attachments/assets/b592ac03-147b-45ed-b3ed-c7c3a96bdba2">
 
 Sieltä luin että minun tulisi korvata tiedosto, joka sijaitsee /var/www/html/index.html. 
 
@@ -96,7 +96,7 @@ Ajoin cd /var/www/html ja tämän jälkeen sudo nano index.html. Poistin alkuper
 
 Tämän tallennettuani kokeilin puhelimella tapahtuiko muutoksia.
 
-![viikko4 21](https://github.com/user-attachments/assets/7f7a6458-7ec0-419a-963a-a26135efc758)
+<img width="500" alt="viikko4 21" src="https://github.com/user-attachments/assets/7f7a6458-7ec0-419a-963a-a26135efc758">
 
 ## Lähteitä
 
